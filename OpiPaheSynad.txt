@@ -7,3 +7,17 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realiseerimis projekt / teostusprojekt
 Диаграмма Ганта - Ganta diagramm
+
+***Lisa esimese faili juurde järgmised tõlked:
+
+?критический путь проекта - kriitilist teed projekti
+?виды рисков в проекте - riskide liigid projektis
+?аутсорсинг - allhanked 
+?краудсорсинг - ühisrahastus
+?ИТ аудит - IT audit
+?ERP системы - ERP süsteemi
+?ROI для оценки проектов - ROI projektide hindamiseks
+?Tacit - Tacit
+?Knowledge Managment System - Teadmiste haldamise süsteem
+?cистемы управления базами данных – какие знаете? - andmebaaside haldamise süsteemid
+?Project Managment Tool - Projektide haldamise tööriist
