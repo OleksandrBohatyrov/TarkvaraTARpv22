@@ -10,7 +10,7 @@
 
 ***Lisa esimese faili juurde järgmised tõlked:
 
-?критический путь проекта - kriitilist teed projekti
+?критический путь проекта - projekti kriitiline tee
 ?виды рисков в проекте - riskide liigid projektis
 ?аутсорсинг - allhanked 
 ?краудсорсинг - ühisrahastus
