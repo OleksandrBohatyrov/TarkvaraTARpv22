@@ -1,0 +1,7 @@
+Kirjuta oma nimi:
+
+1. mis on * SELECT * FROM Autod
+2. Milliseid piiranguid te teate?
+3. Kas töö tippu on võimalik muuta?
+4. Kas raporteid saab teha?
+5. Tõlge eesti keeles. Процесс разработки ПО -
