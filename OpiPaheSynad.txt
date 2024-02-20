@@ -10,14 +10,38 @@
 
 ***Lisa esimese faili juurde järgmised tõlked:
 
-?критический путь проекта - projekti kriitiline tee
-?виды рисков в проекте - projekti riskiliigid
-?аутсорсинг - allhanke
-?краудсорсинг - rahvahanke
-?ИТ аудит - IT audiit
+?критический путь проекта - kriitilist teed projekti
+?виды рисков в проекте - riskide liigid projektis
+?аутсорсинг - allhanked 
+?краудсорсинг - ühisrahastus
+?ИТ аудит - IT audit
 ?ERP системы - ERP süsteemi
 ?ROI для оценки проектов - ROI projektide hindamiseks
-?Tacit - süsteemid Tacit
-?Knowledge Managment System - KMS
-?cистемы управления базами данных – какие знаете? - andmebaaside haldus süsteemid. MySQL, NoSQL, MSSQL, PostrgreSQL
-?Project Managment Tool - Projektide halduse tarkvara. Microsofr Project
+?Tacit - Tacit
+?Knowledge Managment System - Teadmiste haldamise süsteem
+?cистемы управления базами данных – какие знаете? - andmebaaside haldamise süsteemid
+?Project Managment Tool - Projektide haldamise tööriist
+
+20.02.2024
+mudel - модель
+kasutusmalliskeem - диаграмма прецедентов
+tegevusskeem - диаграмма активности / деятельности
+
+jadaskeem - диаграмма последовательностей
+klassiskeem - диаграмма классов
+koostööskeem - диаграмма взаимодействия
+
+andmebaasiskeem - диаграмма базы данных
+olem - сущность
+seos - связь
+
+muster - узор / схема / шаблон
+mustand - черновик
+
+punkt - точка
+romb - ромб
+ristkülik - прямоугольник
+nool - стрелка
+joon - линия
+algussõlm - начальный
+ovaal - овал
