@@ -38,6 +38,7 @@ seos - связь
 muster - узор / схема / шаблон
 mustand - черновик
 
+Kavand - схема / план / макет
 punkt - точка
 romb - ромб
 ristkülik - прямоугольник
