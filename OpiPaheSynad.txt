@@ -38,6 +38,7 @@ seos - связь
 muster - узор / схема / шаблон
 mustand - черновик
 
+Teosus - реализация
 Kavand - план
 Kavandamine - планирование 
 punkt - точка
