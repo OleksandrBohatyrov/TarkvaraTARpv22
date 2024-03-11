@@ -38,7 +38,6 @@ seos - связь
 muster - узор / схема / шаблон
 mustand - черновик
 
-Draiver on tarkvara, mille abil saab arvuti riistvara või seadmetega suhelda.
 
 Teosus - реализация
 Kavand - план
